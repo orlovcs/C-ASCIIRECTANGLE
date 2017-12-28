@@ -1,3 +1,6 @@
+/*---///
+Nikita Orlov|2017|ASCIIRECTANGLE|C|orlovcs
+*///---
 
 #include <stdio.h>
 #include <stdlib.h>
